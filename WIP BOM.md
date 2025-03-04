@@ -48,7 +48,7 @@ https://www.aliexpress.com/item/1005008044466157.html?spm=a2g0o.productlist.main
 ### hot end 5$ on sale
 https://www.aliexpress.com/item/1005006940876078.html?spm=a2g0o.productlist.main.1.605b4659j2wR7h&algo_pvid=3e486227-7e62-46a6-affb-c658697d72a8&algo_exp_id=3e486227-7e62-46a6-affb-c658697d72a8-0&pdp_ext_f=%7B%22order%22%3A%22176%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%2142.88%213.51%21%21%21211.64%2117.32%21%40%2112000038800997602%21sea%21CA%210%21ABX&curPageLogUid=h91GtZTC6soL&utparam-url=scene%3Asearch%7Cquery_from%3A
 
-### extruder includes stepper motor 20$
+### extruder  20$
 https://www.amazon.ca/dp/B09H6T3NNT/ref=twister_B0B3MVSJ46?_encoding=UTF8&th=1
 
 ### 4pc gantry 26$ NO NEED
