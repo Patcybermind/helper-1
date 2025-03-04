@@ -48,17 +48,14 @@ https://www.aliexpress.com/item/1005008044466157.html?spm=a2g0o.productlist.main
 ### hot end 5$ on sale
 https://www.aliexpress.com/item/1005006940876078.html?spm=a2g0o.productlist.main.1.605b4659j2wR7h&algo_pvid=3e486227-7e62-46a6-affb-c658697d72a8&algo_exp_id=3e486227-7e62-46a6-affb-c658697d72a8-0&pdp_ext_f=%7B%22order%22%3A%22176%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%2142.88%213.51%21%21%21211.64%2117.32%21%40%2112000038800997602%21sea%21CA%210%21ABX&curPageLogUid=h91GtZTC6soL&utparam-url=scene%3Asearch%7Cquery_from%3A
 
-### extruder includes stepper motor 37$
-https://www.amazon.ca/Redrex-Extruder-Compatible-Creality-Supported/dp/B09ZDQM6P6/ref=sr_1_2_sspa?crid=1HA4NTVPGNLXH&dib=eyJ2IjoiMSJ9.d4soivDlWA4GUetKP8dxAalj69Or1mH-RvugU-qQR9npBgPh6MdSo8fFf5IVHdL6PJ17CutA3Jca50bmGAHwiRaDEUDfsgZ-_5OKfpGodc30cbGDpK36B2j-WjHkIsKLujYi8RLAKlMS2PVs5480moMCkJZsinu32VhtzJJbSZVo7LgvPBJ81j1Pc6SVPZWzd-eYZc4Pg3Fo5OpjZfOENr4X4Y9zRfNpDhOVH8T0joenyleHLhWX3C4dky9saJEXMwjQHp7RWNvSf9QG8uCZ9L6HHk_wz83NbIzIvhGe3JA.mq404n0KVkFGuw6Ej8canAfAo6AT-CZuq0DM-mTWmIc&dib_tag=se&keywords=extruder&qid=1741041847&sprefix=extruder%2Caps%2C128&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+### extruder includes stepper motor 20$
+https://www.amazon.ca/dp/B09H6T3NNT/ref=twister_B0B3MVSJ46?_encoding=UTF8&th=1
 
 ### 4pc gantry 26$ NO NEED
 https://www.aliexpress.com/item/1005007487312327.html?spm=a2g0o.productlist.main.1.3ec91e19iN7BIq&algo_pvid=1b8146b0-a206-499c-a434-59933dd6190a&algo_exp_id=1b8146b0-a206-499c-a434-59933dd6190a-0&pdp_ext_f=%7B%22order%22%3A%22178%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%2115.65%216.79%21%21%2110.60%214.60%21%40%2112000040974608467%21sea%21CA%210%21ABX&curPageLogUid=txti7frVzd38&utparam-url=scene%3Asearch%7Cquery_from%3A
 
-### nema 17 stepper motors 15$ each so 30$
-https://www.amazon.ca/Stepper-63-74oz-42x39mm-Connector-Printer/dp/B07KZQ77VH/ref=sr_1_5?crid=TCUEDABDADC8&dib=eyJ2IjoiMSJ9.arLVmUcEVMlILLs77LmtJ50zYpszDhhweq8jHrHfBNAZFlItjrQ8TM2_1Y63X3MxiaC_UQtmG97GmUVIpIIclmn--46zE2V6IlqgV91oEGQ_eZ2M1ykjd3_aB_gVME6_n26Z8ieFsV2EE2XR3QPAsQnp0Ieptq29T_GUo7Jt6IiIsnnA1QUCwW2olm_1SHDpl1wAYf8ov0nyK9jMubWps8Ca0dFx0cR3-a_gLMnMrBHywUVwiiJcFpkac4gMFiPJSftn5hqX_XW_7wuWw12GRE4_teKGdQ-M4bI9z6yGNl0W9ThhMfFAAn0KLIimZ5x5ebMSyLGBwrl_w_dDZOozBFmius0t8rT_e44Hc4Yv_QndaXcEDNFsUZe9Zx3t8NOky8UVDS1I0riTdPYE1rXhbWt3688_P2cobGKgdbv6__RbjZoS-80ARAnh3AV7OpNW.qSaZoDFNsceDqlO8gJLJY0rJizlPUhd4669A8wvLMVA&dib_tag=se&keywords=stepper+motor&qid=1741053225&sprefix=stepper+motor%2Caps%2C104&sr=8-5&qty=5
-
-### nema 17 smaller stepper motors 20$ for z axis
-https://www.amazon.ca/Printer-NEMA17-Stepper-33N-cm-4-Lead/dp/B0B1Q51G8L/ref=sr_1_10?crid=9FU5UH1Z17T3&dib=eyJ2IjoiMSJ9.NBrCgMY1HlK1H6SyhhG8l6rEs45JxdCYv0dC73jpH--dKGO6_ieyvXxrK423XfLHNzcvuLQW2EI-YkSw-iXyiG8VwvuRYTHyDqVi3xEl0PWSBCZj46EuzI8GovirE25nFTbDZwHQjLCEwG_pOadgIJOjkygAZ-BmDf3YAxwdXWsYTVdarqTdrtT5SCnUJzlvLmc0PgRseJhtL_sTDJJBUscmxofpReMbOIARzLqCoDTs4WGcfJKNfoJbjasAWQw6ra1wpoq4zkbu5SJofKdU6ATm2o2gBv3DaNbGxog04eu74WZttb6Zw97Yj4TsgsH5U_kf6kkgXNMn97zPVSzj7AjXN6SbN1qW3wXaC7IOgBKblctDZ0mgUH8yT6diUAx-bvmd_CEpUdPqsCCPcfTb0fvnMQXFioEpHKwhJtdAb21Qj_ccimcQGPUa2jm0rAEz.O2rPAiD8Sy75ohXmz2BG3hul1_50QjI5UvHil-TpL14&dib_tag=se&keywords=stepper+motor+NEMA+%21%26&qid=1741055235&sprefix=stepper+motor+nema+%26%2Caps%2C109&sr=8-10
+### nema 17 stepper motors 6 for 40$
+https://www.omc-stepperonline.com/fr/3-pieces-serie-e-nema-17-bipolaire-42ncm-59-49oz-in-1-5a-42x42x38mm-4-fils-avec-1m-cable-connecteur-3-17he15-1504s
 
 ### wheels for 3d printed gantries 11$
 https://www.aliexpress.com/item/1005004275676552.html?spm=a2g0o.productlist.main.3.14971ccdQ5PN05&algo_pvid=6373abbc-96bb-419f-b7b1-3149c04671f6&algo_exp_id=6373abbc-96bb-419f-b7b1-3149c04671f6-1&pdp_ext_f=%7B%22order%22%3A%22926%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%219.60%211.46%21%21%216.50%210.99%21%40%2112000028598985649%21sea%21CA%210%21ABX&curPageLogUid=WakbXyxs1uBB&utparam-url=scene%3Asearch%7Cquery_from%3A
