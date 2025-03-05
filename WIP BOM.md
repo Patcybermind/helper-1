@@ -49,3 +49,6 @@ https://www.aliexpress.com/item/1005004275676552.html?spm=a2g0o.productlist.main
 
 ### timing belt kit with the other parts 27$
 https://www.amazon.ca/Zeelo-Timing-Tensioner-Torsion-Printer/dp/B08SMFM3Z6/ref=sr_1_5?crid=2N2ANJJUEBM76&dib=eyJ2IjoiMSJ9.xZi3d4V6PeGNbgFrFUUIDV-jOzEsP9p8K4I3D1oIamcERVxrcSrRObQZs7AnnDGoT_Bq2Ebz-6O0srNFLQur6Qd9qvFrP4gE66d4nd01cdNaeRFQZJ02qevwR28FCo3tRZDvBoCpopp1KxJIRW-VaAKJYduguPON6dRcM0U8icjmePSbaJHQ0R99tejlTPPYJ-hlYQaibwTIXzqqfYiBucCGUNqiwGtf9jbL9URx0as6irBkul_wMz0bUbRHaztZGk_IRqYdpmAOT1J4dNG6cU0hbkMPoSyqiYli2-MfRWvMhFiCV-stj_Fq681L5zewR2SopmXh00-YbkNj7iAGGHQi7rbkRU5no0qKehf858cYvIv0m44v3Wxjnw1dRcXc_YTFFC_37OLZQkzapx0bXM3vYP0DQKJacUBf5a4tQf3JJEO20wyXcROnsgOw2wlX.st1C4K3UIwC0S-o2dVqcP9CRtcKsNxbtVuI3y__m8F8&dib_tag=se&keywords=timing%2Bbelt&qid=1741140501&sprefix=timing%2Bbelt%2Caps%2C114&sr=8-5&th=1
+
+### bed leveling screws 5$
+https://www.aliexpress.com/item/1005007376900885.html?spm=a2g0o.productlist.main.53.2d5127dbRIkFm2&algo_pvid=ac19d319-a517-4476-ab60-a62c3df13a9a&algo_exp_id=ac19d319-a517-4476-ab60-a62c3df13a9a-26&pdp_ext_f=%7B%22order%22%3A%22142%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%214.39%211.47%21%21%2121.58%217.22%21%40%2112000040487042237%21sea%21CA%210%21ABX&curPageLogUid=ZOJDJxdRUFiC&utparam-url=scene%3Asearch%7Cquery_from%3A
