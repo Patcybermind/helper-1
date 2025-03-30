@@ -4,11 +4,6 @@
 https://www.amazon.ca/Aluminum-Extrusion-European-Standard-Industrial/dp/B09DYHX1TJ/ref=cm_cr_arp_d_product_top?ie=UTF8&th=1 600mm 2020 aluminum extrusions 
 
 
-### hotbed 400x400 for 40$
-https://www.aliexpress.com/item/32882403658.html?spm=a2g0o.productlist.main.97.1b3147d2QbgNhu&algo_pvid=c8e5b2d1-fe7e-46f8-b6e2-802ced3347c3&algo_exp_id=c8e5b2d1-fe7e-46f8-b6e2-802ced3347c3-48&pdp_ext_f=%7B%22order%22%3A%22603%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%2116.82%216.16%21%21%2111.39%214.17%21%40%2112000028559168233%21sea%21CA%210%21ABX&curPageLogUid=j7jZH41vyR5U&utparam-url=scene%3Asearch%7Cquery_from%3A
-
-### build plate and surface acylic 27$
-https://www.amazon.ca/SimbaLux-Plexiglass-Transparent-Protective-Projects/dp/B07TXRB1ZF/ref=sr_1_18?crid=1XLGVPT5T8G0N&dib=eyJ2IjoiMSJ9.K6p0KXf2ytkJibP4HAaet60IA5pRgKh11tx4l2AyQcf0Z5v5qqxpw1hl8l4X4-6NCEx0J0At4rqolnTxoqUt4fUpVvS4Eel_BJJZnn1PR1F3BsgYMzmC-qCXwRy77atjF5wn1TS__t3qnJg4TuLoqul-7gFBArL1l4doePtGs8vKSwj_5CdH4WAIZOFbwoUrvStMM7EsTy5rkMhCFshbTUeFIIQQIOb1o-B7bhi_tp2NjLWTIcJX1rC4uoAxyLpZQ-OUrxXAzniUcD_iqGOcJie8aG9PbRJmV6tXVbGANknnqICNih1Szebb-SQ83VEP2vqsiKV-3CRd78NogbJHPWGo0Hi2BdwLDiX5nnVZoCEGgGKsXHcjIe1Po9kPteAdz56tW3norvNkWUXhn_xNWjS9SKkqhJ_CQHN82c2gppCbHmuXYz4-YIfvdhNUwGMj.WHRK7ZUEJ2bgFfhs6DmPrjNaMEd2OkN4iv-sngo-bCQ&dib_tag=se&keywords=glass+sheet&qid=1741049934&sprefix=glass+sheet%2Caps%2C110&sr=8-18
 
 
 ### motherboard 65$
