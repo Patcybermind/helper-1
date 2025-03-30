@@ -18,19 +18,17 @@ https://www.amazon.ca/Radxa-Zero-3E-Ethernet-Computer/dp/B0CZCSWL1B/ref=cm_cr_ar
 https://www.amazon.ca/600mm%EF%BC%8823-62-Inches%EF%BC%89Tr8x8-Thread-Printer-Machine/dp/B09ZPHWS4V/ref=sr_1_5?dib=eyJ2IjoiMSJ9.g-ATzFUi6WSCSanUoFv7voFjfniy49T2wPaudyfv0qI2Qc5L02VgvQLGaMe6I-bwXdwLIOGrNDhZqZkPp7R6An9dHmHWV5qeRaMYwjpLPLPElpwtfyE_xe4qdSl_gmapnnelM9udanaLcaTwN3yuI9P-HmB8_qDl_mcKJVny8caC08BCUdsY-7IXjSwTqZltXKzMYnICBBR9pC-SLYGi67qLyjRSlIX1PP2v00e8zNCKprnJjVrSSEmyWxJp73B9FEcOpBcqRPvXDfGw1unaMidL2MHPuWAVSN6RqhQsirAjKplimiPn2vLu17hv7ffj-NZbaFRVWSoDfKYsfQiqI7gjWJPQBnqZWJSM-k2j8U74WiI5nt0pG11fpJVYfyi7SvB8dSp1yJdBGJoyFkAE8B0nRHninr5x---goBNYMoPnqLHio-YIvOpPYNkr3UsU.lgJ9hnYiPIU_ULt01b9-tslhLHLt8XWW3HiSus9f4uM&dib_tag=se&keywords=lead%2Bscrew%2B600mm&qid=1741055052&sr=8-5&th=1
 
 
-### power supply 24v 480w 35$
-https://www.amazon.ca/Henxlco-Universal-Regulated-Switching-Transformer/dp/B09V127BB4/ref=sr_1_6?crid=LL9TNQP2VW7&dib=eyJ2IjoiMSJ9.fH7OpQOMPNPxfbQnOpqJv8RJ3u4ohOHWvhQy9TH5mVcZ_UkzE-HjqNVbFzlR19Wp-aP-9m3Pf8cscuBeECjvbwY4lQQq4Kf4PjxC6IQHC8_94uF_NrbBIMOBm-lvbFQbTD1KgyDKBIMs-JvEe7d63rO3MDJkr80i1w-S9A8saEHDxJ_SMX1ZtpBLLTPpKpr-19gr950v4tdwPfoaduixIheLmvdt1KUbYERQuGrQ761oujax0hAQGwuhr55KF1Up2zIrnd8dOB4gIRMKV7afTMvKa8mNn1kUffPS2JPb6ijvoGa9wmnt7RpsQQU2P6FG0fFLuA5OX4XM3242pUTEjp5NViHyNrqSVfpS_7mTRRs.q2RFlLFBjak2-w9hkwTiwufKy86A65-AK7keRW-Nqyo&dib_tag=se&keywords=power%2Bsupply%2B300w&qid=1741112121&s=electronics&sprefix=power%2Bsupply%2B300w%2Celectronics%2C85&sr=1-6&th=1
+
 #### on aliexpress on sale for 25$ 500w
 https://www.aliexpress.com/item/1005006332585327.html?spm=a2g0o.productlist.main.15.6e19YmncYmncSu&aem_p4p_detail=20250304101715244737375175710001324172&algo_pvid=a8f95f5c-d722-476b-9359-9d986278cc89&algo_exp_id=a8f95f5c-d722-476b-9359-9d986278cc89-7&pdp_ext_f=%7B%22order%22%3A%222018%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%2159.35%2120.34%21%21%21291.78%2199.97%21%40%2112000036791655655%21sea%21CA%210%21ABX&curPageLogUid=aMGzg0QnrdwZ&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=20250304101715244737375175710001324172_2
 
 
-### 100pcs t slot nuts 10$ no prome 2 dollars promo
+### 100pcs t slot nuts 2 dollars promo
 https://www.aliexpress.com/item/1005008044466157.html?spm=a2g0o.productlist.main.119.17946a684mppep&aem_p4p_detail=202503031224402713031342876560003487540&algo_pvid=38f1acd1-4873-4120-bfd2-bb036c8083c5&algo_exp_id=38f1acd1-4873-4120-bfd2-bb036c8083c5-59&pdp_ext_f=%7B%22order%22%3A%22152%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%219.91%211.46%21%21%2148.93%217.21%21%40%2112000043404735101%21sea%21CA%210%21ABX&curPageLogUid=w3sakbTOZRP8&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202503031224402713031342876560003487540_18#nav-review
 
 ### hot end 5$ on sale
 https://www.aliexpress.com/item/1005006940876078.html?spm=a2g0o.productlist.main.1.605b4659j2wR7h&algo_pvid=3e486227-7e62-46a6-affb-c658697d72a8&algo_exp_id=3e486227-7e62-46a6-affb-c658697d72a8-0&pdp_ext_f=%7B%22order%22%3A%22176%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%2142.88%213.51%21%21%21211.64%2117.32%21%40%2112000038800997602%21sea%21CA%210%21ABX&curPageLogUid=h91GtZTC6soL&utparam-url=scene%3Asearch%7Cquery_from%3A
-### 17$ on amazon
-https://www.amazon.ca/Printer-Extruder-Assembled-1-75mm-Nozzle/dp/B07R3WB3LV/ref=sr_1_5?crid=3BM6OW9I2YE3C&dib=eyJ2IjoiMSJ9._X5i2R6-LhapEduznVfdNcC10vC_mgOBFDf4p--MF42TrEYfGCqYbLhV7ddD2-tpV3sYwdD6RBDJI4GEXMWfWNZKMkK5TrpB9HReiR2cC_CH-_WtpyHV8w1-8FG7HaydrPyW8n_2f7i-Db6amIj71Mgif_Phv8CmU4c2AUSpylFmIUXUHX73-PzEvt4VHYs98SWrFP8_e5cA1zCGXUF1piInD2at6q9ifZnrDOj8NYuO9LKOlWE-5mM0SFI_u9TIbdAcw8-YT8rq-MLVm7MGK9VpIoXEd0h3epRIzgo1yIwZjdU0U-llyjxpdozsMxdoGcxHXUKNPMVIJQOBa62EBUM9OsfZIz5Aw_QZmwI8HUmkYDfwfQoCHoaoD94GlK608hdOu3QmGMCwlxo5-iSGspjWnXpclj9BqfEnQZ6xFElJmWcG5NJUc6VuOlxK0UxH.eIP_xcnYp5DSF62OG_DzXzWamez8MwcvgFojz13zG0w&dib_tag=se&keywords=hot+end&qid=1741129015&sprefix=hot+end%2Caps%2C123&sr=8-5
+
 
 
 ### extruder  20$
