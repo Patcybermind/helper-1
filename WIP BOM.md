@@ -40,7 +40,7 @@ https://www.omc-stepperonline.com/fr/3-pieces-serie-e-nema-17-bipolaire-42ncm-59
 ### wheels for 3d printed gantries 11$ (remember to choose the 24 pack option)
 https://www.aliexpress.com/item/1005004275676552.html?spm=a2g0o.productlist.main.3.14971ccdQ5PN05&algo_pvid=6373abbc-96bb-419f-b7b1-3149c04671f6&algo_exp_id=6373abbc-96bb-419f-b7b1-3149c04671f6-1&pdp_ext_f=%7B%22order%22%3A%22926%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%219.60%211.46%21%21%216.50%210.99%21%40%2112000028598985649%21sea%21CA%210%21ABX&curPageLogUid=WakbXyxs1uBB&utparam-url=scene%3Asearch%7Cquery_from%3A
 
-### timing belt kit with the other parts 27$
+### timing belt kit with the other parts 27$ DO NOT USE
 https://www.amazon.ca/Zeelo-Timing-Tensioner-Torsion-Printer/dp/B08SMFM3Z6/ref=sr_1_5?crid=2N2ANJJUEBM76&dib=eyJ2IjoiMSJ9.xZi3d4V6PeGNbgFrFUUIDV-jOzEsP9p8K4I3D1oIamcERVxrcSrRObQZs7AnnDGoT_Bq2Ebz-6O0srNFLQur6Qd9qvFrP4gE66d4nd01cdNaeRFQZJ02qevwR28FCo3tRZDvBoCpopp1KxJIRW-VaAKJYduguPON6dRcM0U8icjmePSbaJHQ0R99tejlTPPYJ-hlYQaibwTIXzqqfYiBucCGUNqiwGtf9jbL9URx0as6irBkul_wMz0bUbRHaztZGk_IRqYdpmAOT1J4dNG6cU0hbkMPoSyqiYli2-MfRWvMhFiCV-stj_Fq681L5zewR2SopmXh00-YbkNj7iAGGHQi7rbkRU5no0qKehf858cYvIv0m44v3Wxjnw1dRcXc_YTFFC_37OLZQkzapx0bXM3vYP0DQKJacUBf5a4tQf3JJEO20wyXcROnsgOw2wlX.st1C4K3UIwC0S-o2dVqcP9CRtcKsNxbtVuI3y__m8F8&dib_tag=se&keywords=timing%2Bbelt&qid=1741140501&sprefix=timing%2Bbelt%2Caps%2C114&sr=8-5&th=1
 
 ### timing belt systems for cheaper:
@@ -53,7 +53,11 @@ https://www.aliexpress.com/item/33023279793.html?spm=a2g0o.productlist.main.17.7
 #### 2$ tensioners more 6mm pulley and pulleys and adapter for motor
 https://www.aliexpress.com/item/1005005611354627.html?spm=a2g0o.productlist.main.7.25ce7123BD8xJw&algo_pvid=b7187e62-afe3-4bb0-9e61-4e2a63612bd1&algo_exp_id=b7187e62-afe3-4bb0-9e61-4e2a63612bd1-3&pdp_ext_f=%7B%22order%22%3A%22492%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%216.17%211.45%21%21%2130.59%217.18%21%402101ef5e17434601398686267ef2fb%2112000033744518728%21sea%21CA%210%21ABX&curPageLogUid=XrUbMeoDLvN3&utparam-url=scene%3Asearch%7Cquery_from%3A
 
-####
+#### 2$ 10 mm iddler (choose correct options 6d and 10w)
+https://www.aliexpress.com/item/1005005781354110.html?spm=a2g0o.productlist.main.5.323e59cd1RVXzb&algo_pvid=6bf22b36-ebb7-423a-b169-cf83d4d2a2ed&algo_exp_id=6bf22b36-ebb7-423a-b169-cf83d4d2a2ed-2&pdp_ext_f=%7B%22order%22%3A%22280%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%214.70%211.45%21%21%2123.32%217.20%21%402103273e17434605193015377e223c%2112000034346319396%21sea%21CA%210%21ABX&curPageLogUid=i02xepBctgFi&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+#### 2$ 10 pcs clamp for the belt
+https://www.aliexpress.com/item/1005006771076704.html?spm=a2g0o.productlist.main.5.53b87aa4rLefXV&algo_pvid=f5e3aafa-044d-4a19-87b5-0b86efef5304&algo_exp_id=f5e3aafa-044d-4a19-87b5-0b86efef5304-2&pdp_ext_f=%7B%22order%22%3A%22127%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%212.74%211.45%21%21%2113.60%217.20%21%402101eab017434607178706734e10d3%2112000038243262328%21sea%21CA%210%21ABX&curPageLogUid=aGfF1PGvRJGT&utparam-url=scene%3Asearch%7Cquery_from%3A
 
 ### bed leveling screws 5$
 https://www.aliexpress.com/item/1005007376900885.html?spm=a2g0o.productlist.main.53.2d5127dbRIkFm2&algo_pvid=ac19d319-a517-4476-ab60-a62c3df13a9a&algo_exp_id=ac19d319-a517-4476-ab60-a62c3df13a9a-26&pdp_ext_f=%7B%22order%22%3A%22142%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%214.39%211.47%21%21%2121.58%217.22%21%40%2112000040487042237%21sea%21CA%210%21ABX&curPageLogUid=ZOJDJxdRUFiC&utparam-url=scene%3Asearch%7Cquery_from%3A
