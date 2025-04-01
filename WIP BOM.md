@@ -6,8 +6,15 @@ https://www.amazon.ca/Aluminum-Extrusion-European-Standard-Industrial/dp/B09DYHX
 
 
 
-### motherboard 65$
+### motherboard 65$ DO NOT USE
 https://www.amazon.ca/BIGTREETECH-Control-TMC2209-Stepper-Upgrade/dp/B09LC34SCK/ref=sr_1_3_sspa?crid=1BYIB9SW66K3H&dib=eyJ2IjoiMSJ9.NIhmrrRny0dyZqjykF9OmmATi0VaZQuiwuy--fy-KVoNLmsJWWlcN1EBpfxp-lO4DL7ODNiAhqIz3xeAqSLJ--h1XdJzvOZPjeNerlV_uiiEoOB9du6DTclo-RLBWuHJDK5FaWGwsXV8lChHzRDfHhy1r_97wPIUHQcSreHj7Rb7Em_ZxTGO-D1AUuDgwxBcfctIrloaPavDtQrQl1JFWgGZafBNsvM1EEVvZy__EnvaG1mcIDhKVf_2KkX-5slG1gu1PJT4iiBsVDGXB7Y7Lf63tC0cPgsHnD-I_Kss8Xg.K2rHjKaIGJOunH7e5ZrAKXi-6-3LPkM96bvG6BpgxaM&dib_tag=se&keywords=3d%2Bprinter%2Bmotherboard&qid=1740950148&sprefix=3d%2Bprinter%2Bmotherboard%2Caps%2C274&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+
+### skr mini e3 v2 30$ on sale till the 6th
+https://www.aliexpress.com/item/1005005844078284.html?spm=a2g0o.productlist.main.3.4dd9PM5dPM5dDs&algo_pvid=03f9a682-0524-4f13-ae49-8808095939ca&algo_exp_id=03f9a682-0524-4f13-ae49-8808095939ca-1&pdp_ext_f=%7B%22order%22%3A%22216%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%2141.85%2128.64%21%21%2128.42%2119.45%21%402101ec1a17435439204463154eb5ff%2112000038625200480%21sea%21CA%210%21ABX&curPageLogUid=HVgUC8RTqI6X&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+### 2x 32gb sd card 20$:
+https://www.amazon.ca/Lexar-128GB-microSDXC-Memory-Adapter/dp/B0BG13FD2J/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.46621be6-fabe-4126-8501-d32c96c42a24%3Aamzn1.sym.46621be6-fabe-4126-8501-d32c96c42a24&crid=FOXIK56PDTR9&cv_ct_cx=sd%2Bcard&keywords=sd%2Bcard&pd_rd_i=B0CB11S919&pd_rd_r=5a2a45a3-44e2-47fd-961a-29ab338882b3&pd_rd_w=cxgFV&pd_rd_wg=Qmul2&pf_rd_p=46621be6-fabe-4126-8501-d32c96c42a24&pf_rd_r=QN8NW46GKCA2EAPCE379&qid=1743547072&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=sd%2Bcard%2Caps%2C179&sr=1-3-acb80629-ce74-4cc5-9423-11e8801573fb-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1
+
 
 ### radxa 3e (the one with ethernet port) 36$
 https://www.amazon.ca/Radxa-Zero-3E-Ethernet-Computer/dp/B0CZCSWL1B/ref=cm_cr_arp_d_product_top?ie=UTF8&th=1
