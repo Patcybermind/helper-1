@@ -33,6 +33,9 @@ i designed the heated bed pcb
 ### thursday, march 6th
 7 hours
 i continued the pcb and then i did some research to look for other websites where i could get parts for cheaper
+heated bed pcb schematic:
+![image](https://github.com/user-attachments/assets/654608cc-1a36-459c-bbfa-b49094b4ff87)
+
 
 ### sunday, march 30th
 5 hours
