@@ -69,3 +69,8 @@ because they are the holes for the wires as you can see here
 this is important because in the cad i dont have any other reference:
 ![image](https://github.com/user-attachments/assets/49b273d5-548c-48b2-a9a1-28bbf128f842)
 
+just found out "drawings" exist, these could have saved me a lot of time and struggle lol
+![image](https://github.com/user-attachments/assets/f8a35842-f3cf-459a-85b7-dbaab1b48177)
+especially right now that i am trying to design some wheels that will fit properly in the cad
+
+
