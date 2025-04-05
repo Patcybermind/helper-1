@@ -76,7 +76,7 @@ https://www.aliexpress.com/item/4000334419933.html?spm=a2g0o.productlist.main.3.
 #### mosfets 19$:
 https://www.amazon.ca/BOJACK-IRFZ44N-IRF510N-transistors-Assortment/dp/B082J3F8HJ/ref=sr_1_4?crid=3HZ4XLT8QHNQ2&dib=eyJ2IjoiMSJ9.27pQo1bObauvzPHnjMgQW7v9CZYPbiOpyk_3-jqChVQdBUbsh3bjtRLd3g-IAwQ-Pmt24E8kr3Q-x8JrJVJr3i4OGOEgioL0q8WZhVh8pEbhJlBzGbWeejrEiwIzkthpo3IXEBmO8LOuyN1CZn0NM95Q-r7FHxTi0yBINLQqwkC7at8eNWekUR7UDko3gx583A1cY7c19G2Ej0De5qvOmXaSimKZjLDvabRHf84s8UQp8udcwmuPXcoNSYQN_AHL9ai0oJHfnujdbMnTr2biNCw940YHFYn2c6aW84vyyDE66ek46pRwubpRo7TJ9N_yp0qGvI6JxV3nzAF9jWntnawT014ssGv2SigzxLq9Xe__lex3C7TYaHMpjsI3UWcvK8ZFa_ldBeEYBPB_DXVQrcs12s_1XaVr6n1M3pcuMiL18-vqSh9OKpKGzGMaK8Vv.eCx1ji26EQZWUIgT0SLlI0kM_5GAJmDps--Z2lF4Xv8&dib_tag=se&keywords=mosfet+kit&qid=1743466564&sprefix=mosfet+kit%2Caps%2C105&sr=8-4
 
-#### heatsinks 14$:
+#### heatsinks 14$ DO NOT COUNT:
 https://www.amazon.ca/Easycargo-Heatsink-Insulator-Regulator-Transistor/dp/B08MW1YNJM/ref=sr_1_5?crid=15PGYRQUBJPZ3&dib=eyJ2IjoiMSJ9.qR-VCe4jzgM5C_Yjo2lw3Ghjs8Lcj18stlOVg5vvVIOCdBMPWDHcpKNWMDoy0PE5ZkkN_6sCVfhi9DCVqORJA1Shx_peC8XDkiqANOCkTJc78XvJXf6VNa7csjORCARiS1QEc_lCry-YPY6Yk18aYPQT3JFoUCYgRg2a3MQQ5IoFqyy7pULQ88Y4iFDFmrrc6E1v_jlhWNpp0P916nCA4NkQLG4xu_mw00sbd3S0zCprtEwRkYYrxdGZyCzQI0IkaqT6T3mlnTkC9nNVSn2V9PlRgRedsu_0bsA7Xx6RppogYlzZmrp-lNaMCAJLVriMRDzPImsp3LHMg1dulqBzO5Q6zWDv4U2yUSgtcu2eTU--raHMBRio7BYDrGcGREQglPvzJxPt1CaBghmleEvRraf69m2hLm8T7N-f6tFJfqA70-LnNSJ5VI2Th8IKCNFy.rMXb_nxuduCBdVZZKkP8taDeinehR5z1c8Aeg2yxcHk&dib_tag=se&keywords=mosfet%2Bheatsink&qid=1743466650&sprefix=mosfet%2Bheatsink%2Caps%2C103&sr=8-5&th=1
 
 #### capacitors 17$:
