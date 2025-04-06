@@ -93,3 +93,6 @@ https://www.aliexpress.com/item/1005004114014014.html?spm=a2g0o.productlist.main
 
 ### kapton tape 2$
 https://www.aliexpress.com/item/1005007518587827.html?spm=a2g0o.productlist.main.1.202f4d98jFt17T&algo_pvid=b85aa5c1-6a5e-49bd-8e80-7d64928a49a3&algo_exp_id=b85aa5c1-6a5e-49bd-8e80-7d64928a49a3-0&pdp_ext_f=%7B%22order%22%3A%2213138%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%213.39%211.42%21%21%2117.12%217.18%21%402101d9ef17439635131627629ea1fa%2112000041103956429%21sea%21CA%210%21ABX&curPageLogUid=olO2M42cVi5p&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+### m3 screws 2$
+https://www.aliexpress.com/item/1005005070119421.html?spm=a2g0o.productlist.main.1.31d97473u78Og5&algo_pvid=fac9dc7c-cd5b-42fe-9527-61964ff8a116&algo_exp_id=fac9dc7c-cd5b-42fe-9527-61964ff8a116-0&pdp_ext_f=%7B%22order%22%3A%228800%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%212.39%211.42%21%21%211.66%210.99%21%40210330dd17439828922411473e42e1%2112000031519353306%21sea%21CA%210%21ABX&curPageLogUid=ix5VFEkAsTgH&utparam-url=scene%3Asearch%7Cquery_from%3A
