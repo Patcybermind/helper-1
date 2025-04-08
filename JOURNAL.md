@@ -9,7 +9,7 @@ this will be useful for printing 3d printed plane wings etc and big things, thos
 
 # Log :
 
-Total hours so far: 78
+Total hours so far: 82
 
 ### Sunday, march 2nd
 7 hours
@@ -94,7 +94,11 @@ continued designing the printer, did some research on how the corexy system work
 
 ![image](https://github.com/user-attachments/assets/ffae8a3e-09b3-41ea-bc77-e3aa63f29bb2)
 
+### monday april 7th
+4 hours
+i finalised the pulley and belt system 
+the cad is basically done and i could now build the printer
 
-
+i also added the cad files and the kicad pcb files to the repo
 
 
