@@ -102,3 +102,4 @@ the cad is basically done and i could now build the printer
 i also added the cad files and the kicad pcb files to the repo
 
 
+![image](https://github.com/user-attachments/assets/1cd0b9b6-7192-4b7f-995f-008acfb08111)
