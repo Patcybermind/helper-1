@@ -103,3 +103,9 @@ i also added the cad files and the kicad pcb files to the repo
 
 
 ![image](https://github.com/user-attachments/assets/1cd0b9b6-7192-4b7f-995f-008acfb08111)
+
+note to self:
+my wood scraps are 8.75cm by 3.75 cm aprox
+my screws are: 6 , 1 1/3
+
+(i plan on building some support to hold the printer by the top out of some wood i recycled from an old project)
