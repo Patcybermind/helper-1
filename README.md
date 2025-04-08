@@ -1,5 +1,5 @@
 # helper-1
-a cheap 3d printer designed primarily for building plane wings and generally big things
+a cheap corexy 3d printer designed primarily for building plane wings and generally big things
 
 ## capabilities:
 given the weight of the toolhead and the extrusion its supported by chatgpt did some math for me and said it should be able to do 6k acceleration so, my goal wasnt for it to be extremely fast, it was for it to be able to print large volumes, right now it can do 400mm by 400mm by 450mm for height
