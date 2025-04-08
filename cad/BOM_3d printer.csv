@@ -1,0 +1,43 @@
+Item,Quantity,Name
+1,1,2020 550mm
+2,2,2GT-20T-10W-8B BF Pulley v1
+3,4,2GT-20T-10W-8B BF Pulley v1
+4,4,90 degree connector 20x20
+5,4,bed connector
+6,2,double pulley connector
+7,1,Extruder
+7.1,1,5015 Fan
+7.2,1,5015 H2 Cooling
+7.3,1,Biqu H2
+7.4,1,Bltouch
+7.5,1,Bltouch Mount
+7.6,1,Extruder H2 Mount
+7.7,1,Extruder Plate (1)
+7.8,1,Wheels_Extruder_X3
+8,2,gantry plate and extrusion connector assembly
+9,2,inside 90 degree connector
+10,2,lead screw and motor assembly
+11,62,M4 screw
+12,4,M5 20mm screw
+13,4,main_PCB
+14,4,outside 90 degree connector
+15,2,Part 1
+16,8,PH Pan head screw M3x0.50 x 10
+17,2,Stepper motor - nema 17
+18,58,t slot nuts
+19,2,top square to z axis connector LEFT
+20,2,top square to z axis connector RIGHT
+21,10,V-Slot 2020 600
+22,2,z axis gantry assembly
+22.1,4,24mm wheel
+22.2,4,M5 20mm screw
+22.3,12,M5 nut
+22.4,1,Part 1
+
+Not in cad:
+1x set of 4 bed leveling screws
+1x 5 meters of 10w gt2 belt
+1x belt clamp
+8x 10w iddlers
+600mm lead screws
+
