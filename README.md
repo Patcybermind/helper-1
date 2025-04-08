@@ -29,3 +29,6 @@ make sure that once you do get your parts mesure all the parts to ensure each 3d
 
 
 ![img](image.png)
+
+cad:
+https://cad.onshape.com/documents/2123402270f28d911c454b7e/w/1b68320c875217382b4c33ce/e/86b8f7cdf32d57478722f015
