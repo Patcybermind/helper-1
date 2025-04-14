@@ -28,7 +28,7 @@ you might be wondering why it doesnt just llok like a box, and the reason for th
 make sure that once you do get your parts mesure all the parts to ensure each 3d printed adapter / connector fits perfectly, i dont have any parts to mesure them so most is based of of measurements i found online but from what ive seen they can change from manufacturer to manufacturer and you dont want to print a kilogram of plastic only to realise it doesnt fit togheter
 
 
-![img](image.png)
+![img](IMG_0063.jpeg)
 
 cad:
 https://cad.onshape.com/documents/2123402270f28d911c454b7e/w/1b68320c875217382b4c33ce/e/86b8f7cdf32d57478722f015
