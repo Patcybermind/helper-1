@@ -31,4 +31,4 @@ make sure that once you do get your parts mesure all the parts to ensure each 3d
 ![img](IMG_0063.jpeg)
 
 cad:
-https://cad.onshape.com/documents/2123402270f28d911c454b7e/w/1b68320c875217382b4c33ce/e/86b8f7cdf32d57478722f015
+https://cad.onshape.com/documents/2123402270f28d911c454b7e/w/1b68320c875217382b4c33ce/e/86b8f7cdf32d57478722f015?renderMode=0&uiState=68002a770f50eb5e08ef4c3f
