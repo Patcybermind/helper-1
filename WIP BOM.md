@@ -5,15 +5,13 @@ https://www.amazon.ca/Aluminum-Extrusion-European-Standard-Industrial/dp/B09DYHX
 
 
 
+### sbc 78$
+https://www.aliexpress.com/item/1005007473801146.html
 
 
 
 
 
-
-
-### lead screws 600mm z axis 25$
-https://www.amazon.ca/600mm%EF%BC%8823-62-Inches%EF%BC%89Tr8x8-Thread-Printer-Machine/dp/B09ZPHWS4V/ref=sr_1_5?dib=eyJ2IjoiMSJ9.g-ATzFUi6WSCSanUoFv7voFjfniy49T2wPaudyfv0qI2Qc5L02VgvQLGaMe6I-bwXdwLIOGrNDhZqZkPp7R6An9dHmHWV5qeRaMYwjpLPLPElpwtfyE_xe4qdSl_gmapnnelM9udanaLcaTwN3yuI9P-HmB8_qDl_mcKJVny8caC08BCUdsY-7IXjSwTqZltXKzMYnICBBR9pC-SLYGi67qLyjRSlIX1PP2v00e8zNCKprnJjVrSSEmyWxJp73B9FEcOpBcqRPvXDfGw1unaMidL2MHPuWAVSN6RqhQsirAjKplimiPn2vLu17hv7ffj-NZbaFRVWSoDfKYsfQiqI7gjWJPQBnqZWJSM-k2j8U74WiI5nt0pG11fpJVYfyi7SvB8dSp1yJdBGJoyFkAE8B0nRHninr5x---goBNYMoPnqLHio-YIvOpPYNkr3UsU.lgJ9hnYiPIU_ULt01b9-tslhLHLt8XWW3HiSus9f4uM&dib_tag=se&keywords=lead%2Bscrew%2B600mm&qid=1741055052&sr=8-5&th=1
 
 
 
@@ -35,13 +33,11 @@ https://www.amazon.ca/dp/B09H6T3NNT/ref=twister_B0B3MVSJ46?_encoding=UTF8&th=1
 ### nema 17 stepper motors 6 for 40$
 https://www.omc-stepperonline.com/fr/3-pieces-serie-e-nema-17-bipolaire-42ncm-59-49oz-in-1-5a-42x42x38mm-4-fils-avec-1m-cable-connecteur-3-17he15-1504s
 
-### wheels for 3d printed gantries 11$ (remember to choose the 24 pack option)
-https://www.aliexpress.com/item/1005004275676552.html?spm=a2g0o.productlist.main.3.14971ccdQ5PN05&algo_pvid=6373abbc-96bb-419f-b7b1-3149c04671f6&algo_exp_id=6373abbc-96bb-419f-b7b1-3149c04671f6-1&pdp_ext_f=%7B%22order%22%3A%22926%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%219.60%211.46%21%21%216.50%210.99%21%40%2112000028598985649%21sea%21CA%210%21ABX&curPageLogUid=WakbXyxs1uBB&utparam-url=scene%3Asearch%7Cquery_from%3A
 
-### timing belt kit with the other parts 27$ DO NOT USE
-https://www.amazon.ca/Zeelo-Timing-Tensioner-Torsion-Printer/dp/B08SMFM3Z6/ref=sr_1_5?crid=2N2ANJJUEBM76&dib=eyJ2IjoiMSJ9.xZi3d4V6PeGNbgFrFUUIDV-jOzEsP9p8K4I3D1oIamcERVxrcSrRObQZs7AnnDGoT_Bq2Ebz-6O0srNFLQur6Qd9qvFrP4gE66d4nd01cdNaeRFQZJ02qevwR28FCo3tRZDvBoCpopp1KxJIRW-VaAKJYduguPON6dRcM0U8icjmePSbaJHQ0R99tejlTPPYJ-hlYQaibwTIXzqqfYiBucCGUNqiwGtf9jbL9URx0as6irBkul_wMz0bUbRHaztZGk_IRqYdpmAOT1J4dNG6cU0hbkMPoSyqiYli2-MfRWvMhFiCV-stj_Fq681L5zewR2SopmXh00-YbkNj7iAGGHQi7rbkRU5no0qKehf858cYvIv0m44v3Wxjnw1dRcXc_YTFFC_37OLZQkzapx0bXM3vYP0DQKJacUBf5a4tQf3JJEO20wyXcROnsgOw2wlX.st1C4K3UIwC0S-o2dVqcP9CRtcKsNxbtVuI3y__m8F8&dib_tag=se&keywords=timing%2Bbelt&qid=1741140501&sprefix=timing%2Bbelt%2Caps%2C114&sr=8-5&th=1
 
-### timing belt systems for cheaper:
+
+
+### timing belt systems:
 #### 3$ timing belt gt2 (buy 5M 10mm option) for better acceleration
 https://www.aliexpress.com/item/1005005216868552.html?spm=a2g0o.productlist.main.1.7c502fda2oHSdG&algo_pvid=6ecc21b5-e8c2-47d8-82d7-b026adc8aa65&algo_exp_id=6ecc21b5-e8c2-47d8-82d7-b026adc8aa65-0&pdp_ext_f=%7B%22order%22%3A%221134%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%218.59%211.45%21%21%215.87%210.99%21%402101c80217434554434888110e0a18%2112000041927837323%21sea%21CA%210%21ABX&curPageLogUid=LNelPlFpaVjT&utparam-url=scene%3Asearch%7Cquery_from%3A
 
