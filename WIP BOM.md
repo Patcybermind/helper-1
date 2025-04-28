@@ -8,11 +8,11 @@ https://www.amazon.ca/Aluminum-Extrusion-European-Standard-Industrial/dp/B09DYHX
 ### sbc 78$
 https://www.aliexpress.com/item/1005007473801146.html
 
+### magnets 4$
+https://www.aliexpress.com/item/1005001832523652.html?spm=a2g0o.productlist.main.23.72aeQpPYQpPYs7&algo_pvid=a0aca468-ae45-4d82-a2bd-421c53cfc991&algo_exp_id=a0aca468-ae45-4d82-a2bd-421c53cfc991-11&pdp_ext_f=%7B%22order%22%3A%22420%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%214.60%212.14%21%21%213.24%211.51%21%402103010b17458012534238971e7798%2112000017789709613%21sea%21CA%210%21ABX&curPageLogUid=DImCDMSTecXS&utparam-url=scene%3Asearch%7Cquery_from%3A
 
-
-
-
-
+### not sure if does will work for an encoder either they seem cheap but have a lot of sales 7$: 
+https://www.aliexpress.com/item/1005006313100444.html?src=google&pdp_npi=4%40dis!CAD!1.42!0.72!!!!!%40!12000036721500063!ppc!!!&src=google&albch=shopping&acnt=631-313-3945&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&&albagn=888888&&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en1005006313100444&ds_e_product_merchant_id=5411485905&ds_e_product_country=CA&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=19366866438&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gbraid=0AAAAACbpRIntz7FyUbRXz6nEirjyACM2A&gclid=CjwKCAjwq7fABhB2EiwAwk-YbCjzwBYyg6Opkv4z3mV-r6UOMz1PyeNAaPae2Cj_OT3nOK1vAx_bWBoCW5gQAvD_BwE
 
 
 #### on aliexpress on sale for 25$ 500w
