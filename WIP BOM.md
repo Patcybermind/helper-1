@@ -4,6 +4,9 @@
 https://www.amazon.ca/Aluminum-Extrusion-European-Standard-Industrial/dp/B09DYHX1TJ/ref=cm_cr_arp_d_product_top?ie=UTF8&th=1 600mm 2020 aluminum extrusions 
 
 
+### brushless motors 1400kv 7$ each:
+https://www.aliexpress.com/item/1005006823569626.html?spm=a2g0o.productlist.main.9.75e75eb7HlVDob&algo_pvid=868fb329-b748-437e-9376-a7b04aba05d7&algo_exp_id=868fb329-b748-437e-9376-a7b04aba05d7-4&pdp_ext_f=%7B%22order%22%3A%22458%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%218.18%216.70%21%21%215.76%214.72%21%402103244817458834874744256e2f48%2112000038419463350%21sea%21CA%210%21ABX&curPageLogUid=rmguNxApsgVi&utparam-url=scene%3Asearch%7Cquery_from%3A
+
 
 ### sbc 78$
 https://www.aliexpress.com/item/1005007473801146.html
