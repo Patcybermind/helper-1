@@ -18,6 +18,9 @@ https://www.aliexpress.com/item/1005001832523652.html?spm=a2g0o.productlist.main
 https://www.aliexpress.com/item/1005006313100444.html?src=google&pdp_npi=4%40dis!CAD!1.42!0.72!!!!!%40!12000036721500063!ppc!!!&src=google&albch=shopping&acnt=631-313-3945&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&&albagn=888888&&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en1005006313100444&ds_e_product_merchant_id=5411485905&ds_e_product_country=CA&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=19366866438&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gbraid=0AAAAACbpRIntz7FyUbRXz6nEirjyACM2A&gclid=CjwKCAjwq7fABhB2EiwAwk-YbCjzwBYyg6Opkv4z3mV-r6UOMz1PyeNAaPae2Cj_OT3nOK1vAx_bWBoCW5gQAvD_BwE
 
 
+### rings could be usefull for securing stuff with some like slack CHECK LATER 3$:
+https://www.aliexpress.com/item/1005005279217945.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.6.26f6nKWbnKWbEj&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40196.436742.0&scm_id=1007.40196.436742.0&scm-url=1007.40196.436742.0&pvid=3ee642a4-2462-45f4-9aa8-244a32364d1b&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40196.436742.0,pvid:3ee642a4-2462-45f4-9aa8-244a32364d1b,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%22325%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%7D&pdp_npi=4%40dis%21CAD%213.05%212.34%21%21%212.15%211.65%21%402101ef5e17458835047602738e9211%2112000032466543767%21rec%21CA%21%21ABX&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A
+
 #### on aliexpress on sale for 25$ 500w
 https://www.aliexpress.com/item/1005006332585327.html?spm=a2g0o.productlist.main.15.6e19YmncYmncSu&aem_p4p_detail=20250304101715244737375175710001324172&algo_pvid=a8f95f5c-d722-476b-9359-9d986278cc89&algo_exp_id=a8f95f5c-d722-476b-9359-9d986278cc89-7&pdp_ext_f=%7B%22order%22%3A%222018%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%2159.35%2120.34%21%21%21291.78%2199.97%21%40%2112000036791655655%21sea%21CA%210%21ABX&curPageLogUid=aMGzg0QnrdwZ&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=20250304101715244737375175710001324172_2
 
@@ -33,8 +36,8 @@ https://www.aliexpress.com/item/1005006940876078.html?spm=a2g0o.productlist.main
 ### extruder  20$
 https://www.amazon.ca/dp/B09H6T3NNT/ref=twister_B0B3MVSJ46?_encoding=UTF8&th=1
 
-### nema 17 stepper motors 6 for 40$
-https://www.omc-stepperonline.com/fr/3-pieces-serie-e-nema-17-bipolaire-42ncm-59-49oz-in-1-5a-42x42x38mm-4-fils-avec-1m-cable-connecteur-3-17he15-1504s
+### nema 17 stepper motors 6 for 60$
+https://www.amazon.ca/Nema17-Stepper-Motor-Efficient-Versatile/dp/B0D1VJ9HHY/ref=sr_1_5?dib=eyJ2IjoiMSJ9.SE5HeyiO1Wn1UUtncl4fVayVJmGnQK1GV2rlr3yryEdcFXLOgLwbEKiJM-pkBeZBbhNOADIFBWoixDLcRVMBSJ9LBvrQ4zic2U_e-5YJ1sDecQ-g4raCzyMESN5RW9tWqtcOcqgbUsW96wvykR36IsfLOK_CHS77gNhDmOl6Y-Ge-ug_0g-0rfHMub5vHZpAUNTvqf84NgTT6msTrQttnTV_8Nj18PJJA_vGZ0V0Xw1UrS8IQA-fo8YHn3VrqNZm-ghlQotGgtf6sRdEHwXIqBTaByUnlppqD-V9Ybyh8pE.h7LPsKAZNDxodG9QZ8Y_YV_iwJjM1uxkTCi8SE2B3iE&dib_tag=se&keywords=nema+17+stepper+motor&qid=1745885890&sr=8-5&qty=3
 
 
 
