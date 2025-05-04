@@ -7,6 +7,8 @@ https://www.amazon.ca/Aluminum-Extrusion-European-Standard-Industrial/dp/B09DYHX
 ### brushless motors 1400kv 7$ each:
 https://www.aliexpress.com/item/1005006823569626.html?spm=a2g0o.productlist.main.9.75e75eb7HlVDob&algo_pvid=868fb329-b748-437e-9376-a7b04aba05d7&algo_exp_id=868fb329-b748-437e-9376-a7b04aba05d7-4&pdp_ext_f=%7B%22order%22%3A%22458%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%218.18%216.70%21%21%215.76%214.72%21%402103244817458834874744256e2f48%2112000038419463350%21sea%21CA%210%21ABX&curPageLogUid=rmguNxApsgVi&utparam-url=scene%3Asearch%7Cquery_from%3A
 
+### 3.17mm bore pulleys 1.5$ each:
+https://www.aliexpress.com/item/1005008061508004.html?spm=a2g0o.productlist.main.28.48443c45qvry6o&utparam-url=scene%3Asearch%7Cquery_from%3Apc_back_same_best&algo_pvid=585ee90a-d31d-411b-a6a5-0ed5af80ae09&algo_exp_id=585ee90a-d31d-411b-a6a5-0ed5af80ae09&pdp_ext_f=%7B%22order%22%3A%22191%22%7D&pdp_npi=4%40dis%21CAD%211.34%211.21%21%21%216.85%216.16%21%402101e07217463023502172728e5606%2112000043519224781%21sea%21CA%210%21ABX#nav-store
 
 ### sbc 78$
 https://www.aliexpress.com/item/1005007473801146.html
