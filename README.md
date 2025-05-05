@@ -32,3 +32,5 @@ make sure that once you do get your parts mesure all the parts to ensure each 3d
 
 cad:
 https://cad.onshape.com/documents/2123402270f28d911c454b7e/w/1b68320c875217382b4c33ce/e/86b8f7cdf32d57478722f015?renderMode=0&uiState=68002a770f50eb5e08ef4c3f
+
+update: im gonna keep these files but in gonna do a resesign from the ground up. this is meant to be a large volume printer for 3d printed rc plane wings so i think its better if i go with a robotic arm 3d printer with 1.2m max reach and eve nthough its slower and less precise, it doesnt matter because doesnt arent really that important here
